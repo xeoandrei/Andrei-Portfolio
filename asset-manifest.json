@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Andrei-Portfolio/static/css/main.9ff9c189.css",
-    "main.js": "/Andrei-Portfolio/static/js/main.3fcdf675.js",
+    "main.js": "/Andrei-Portfolio/static/js/main.f739a17a.js",
     "static/js/787.fb771931.chunk.js": "/Andrei-Portfolio/static/js/787.fb771931.chunk.js",
-    "static/media/profile.png": "/Andrei-Portfolio/static/media/profile.19704144f5c7657d5b1f.png",
     "static/media/color-sharp.png": "/Andrei-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Andrei-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/profile.png": "/Andrei-Portfolio/static/media/profile.db90c370c11b6c8032c5.png",
     "static/media/banner-bg.png": "/Andrei-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/CentraNo2-Bold.ttf": "/Andrei-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Andrei-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -29,11 +29,11 @@
     "static/media/arrow1.svg": "/Andrei-Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Andrei-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9ff9c189.css.map": "/Andrei-Portfolio/static/css/main.9ff9c189.css.map",
-    "main.3fcdf675.js.map": "/Andrei-Portfolio/static/js/main.3fcdf675.js.map",
+    "main.f739a17a.js.map": "/Andrei-Portfolio/static/js/main.f739a17a.js.map",
     "787.fb771931.chunk.js.map": "/Andrei-Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff9c189.css",
-    "static/js/main.3fcdf675.js"
+    "static/js/main.f739a17a.js"
   ]
 }
